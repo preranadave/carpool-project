@@ -35,7 +35,7 @@ import AdminProtectedRoute from "./Components/Admin/AdminProtectedRoute.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <UserAuthContextProvider>
-      <BrowserRouter>
+      <BrowserRouter basename='/carpool-project'>
         <Routes>
           {/* user Component Route */}
           <Route path="*" element={<PageNotFound />} />
