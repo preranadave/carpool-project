@@ -1,9 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function PageNotFound() {
-  return (
-    <div className='mx-auto w-40 my-[200px] p-44 bg-red-400'>
-      Sorry!
-    </div>
-  )
+  return <h1 className="text-center text-3xl absolute top-1/2 left-1/2">Sorry Page Not Found!</h1>;
 }
