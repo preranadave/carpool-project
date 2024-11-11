@@ -1,14 +1,11 @@
 {
+  
   "name": "carpoolproject",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://preranadave.github.io/carpool-project",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "vite start",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
