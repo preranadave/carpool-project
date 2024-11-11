@@ -1,0 +1,178 @@
+{
+  "Users": [
+    {
+      "id": "3a83",
+      "UserName": "prernadave",
+      "Email": "prerana123@gmail.com",
+      "Password": "prerana12345",
+      "Role": "user",
+      "IsDriver": true,
+      "ProfileImage": "https://plus.unsplash.com/premium_photo-1683121366070-5ceb7e007a97?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "UID": "vuE0L9xs1BWzBOWPQbhuscd82k52"
+    },
+    {
+      "id": "5ec2",
+      "UserName": "himesh",
+      "Email": "himesh@gmail.com",
+      "Password": "himesh1234",
+      "Role": "user",
+      "IsDriver": false,
+      "ProfileImage": "data:image/jpeg;base64,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",
+      "UID": "coNIsWXmRFfYV4MxYXN7eJQtwy52"
+    }
+  ],
+  "DriverDetails": [
+    {
+      "id": "3c0f",
+      "Drivinglicence": "321",
+      "BankAccount": "321",
+      "UserUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "DriverName": "prerna",
+      "DriverProfile": "https://plus.unsplash.com/premium_photo-1683121366070-5ceb7e007a97?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ],
+  "Locations": [
+    {
+      "City": "jaipur",
+      "Address": "nana mava",
+      "id": "9ff3"
+    },
+    {
+      "id": "7a93",
+      "City": "jamnagr",
+      "Address": "lakhota lake"
+    },
+    {
+      "id": "a241",
+      "City": "jamnagar",
+      "Address": "gec college"
+    },
+    {
+      "id": "e661",
+      "City": "rajkot ",
+      "Address": "bus stop"
+    },
+    {
+      "id": "cc7b",
+      "City": "rajkot",
+      "Address": "trikon baug"
+    },
+    {
+      "City": "seoul",
+      "Address": "gyeongsong",
+      "id": "9c42"
+    }
+  ],
+  "Rides": [
+    {
+      "id": "5f93",
+      "Origin": "nana mava,jaipur",
+      "Destination": "trikon baug,rajkot",
+      "RideDate": "22/10/2024",
+      "RideTime": "14:28",
+      "AvailableSeats": "2",
+      "Price": "222",
+      "Status": "Cancel",
+      "CreatedByUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "DriverProfile": "https://plus.unsplash.com/premium_photo-1683121366070-5ceb7e007a97?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "DriverName": "prerna",
+      "BookedByUID": "coNIsWXmRFfYV4MxYXN7eJQtwy52",
+      "PassengernName": "himesh"
+    },
+    {
+      "id": "1177",
+      "Origin": "lakhota lake,jamnagr",
+      "Destination": "gec college,jamnagar",
+      "RideDate": "19/10/2024",
+      "RideTime": "15:0",
+      "AvailableSeats": "3",
+      "Price": "552",
+      "Status": "Cancel",
+      "CreatedByUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "DriverProfile": "https://plus.unsplash.com/premium_photo-1683121366070-5ceb7e007a97?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "DriverName": "prerna",
+      "BookedByUID": "coNIsWXmRFfYV4MxYXN7eJQtwy52",
+      "PassengernName": "himesh"
+    },
+    {
+      "id": "a62c",
+      "Origin": "bus stop,rajkot",
+      "Destination": "nana mava,jaipur",
+      "RideDate": "15/10/2024",
+      "RideTime": "14:53",
+      "AvailableSeats": "2",
+      "Price": "50",
+      "Status": "Available",
+      "CreatedByUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "DriverProfile": "https://plus.unsplash.com/premium_photo-1683121366070-5ceb7e007a97?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "DriverName": "prerna",
+      "BookedByUID": "",
+      "PassengernName": ""
+    }
+  ],
+  "RideNotification": [
+    {
+      "id": "ef29",
+      "UserName": "himesh",
+      "timestamp": "5/10/2024, 2:33:07 pm",
+      "RideID": "5f93",
+      "UserUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "Status": "Read",
+      "RideStatus": "Booked"
+    },
+    {
+      "id": "6b69",
+      "UserName": "himesh",
+      "timestamp": "5/10/2024, 2:40:50 pm",
+      "RideID": "5f93",
+      "UserUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "Status": "Read",
+      "RideStatus": "Booked"
+    },
+    {
+      "id": "071f",
+      "UserName": "prerna",
+      "timestamp": "05/10/2024, 14:41:29",
+      "RideID": "5f93",
+      "UserUID": "coNIsWXmRFfYV4MxYXN7eJQtwy52",
+      "Status": "Read",
+      "RideStatus": "Cancel"
+    },
+    {
+      "id": "06bc",
+      "UserName": "himesh",
+      "timestamp": "5/10/2024, 2:46:37 pm",
+      "RideID": "1177",
+      "UserUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "Status": "Unread",
+      "RideStatus": "Booked"
+    },
+    {
+      "id": "de32",
+      "UserName": "himesh",
+      "timestamp": "5/10/2024, 2:47:50 pm",
+      "RideID": "1177",
+      "UserUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "Status": "Unread",
+      "RideStatus": "Cancel"
+    },
+    {
+      "id": "7b71",
+      "UserName": "prernadave",
+      "timestamp": "16/10/2024, 18:09:26",
+      "RideID": "30fe",
+      "UserUID": "vuE0L9xs1BWzBOWPQbhuscd82k52",
+      "Status": "Read",
+      "RideStatus": "Booked"
+    }
+  ],
+  "Contacts": [
+    {
+      "id": "0b0e",
+      "Name": "prerna",
+      "Email": "prerna@gmail.com",
+      "Phone": "8000366574",
+      "Message": "hello i need help"
+    }
+  ]
+}
